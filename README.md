@@ -14,8 +14,10 @@ Link for my [page](https://lucasalexander13.github.io/curriculo).
 
 ![Angular](https://img.shields.io/badge/angular-FF757F.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-599DFF.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-C099FF?style=for-the-badge&logo=eslint&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-FF757F.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-599DFF.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-C099FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 Currently I'm working in a software house as a Front-End Web Developer in Brazil. We work constantly with gitflow, agile culture and web components, using a React related framework.
 
@@ -49,5 +51,6 @@ I'm always studying to improve my code quality and productivity, and love tools 
 
 Feel free to connect with me or buy me a coffee.
 
+[![Gmail](https://img.shields.io/badge/Gmail-FF757F?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucasalexander13@hotmail.com)](mailto:lucasalexander13@hotmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-599DFF.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalexander13)](https://www.linkedin.com/in/lucasalexander13)
 [![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-C099FF?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://t.me/lucasalexander13)](https://ko-fi.com/lucasalexander13)
