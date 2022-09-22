@@ -6,7 +6,7 @@ Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree stud
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&show_icons=true&include_all_commits=true&hide=issues&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436)
 
-Link for my ![page](https://lucasalexander13.github.io/curriculo).
+Link for my [page](https://lucasalexander13.github.io/curriculo).
 
 ---
 
