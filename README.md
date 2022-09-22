@@ -5,7 +5,8 @@
 Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree student passionate about computers, science, technology and nerd stuff.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&show_icons=true&include_all_commits=true&hide=issues&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexander13&langs_count=6&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&layout=compact)
+
+Link for my ![page](https://lucasalexander13.github.io/curriculo).
 
 ---
 
@@ -17,6 +18,8 @@ Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree stud
 ![CSS3](https://img.shields.io/badge/css3-599DFF.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 Currently I'm working in a software house as a Front-End Web Developer in Brazil. We work constantly with gitflow, agile culture and web components, using a React related framework.
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexander13&langs_count=6&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&layout=compact)
 
 ---
 
@@ -47,4 +50,4 @@ I'm always studying to improve my code and productivity, and love tools that hel
 Feel free to connect with me or buy me a coffee.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-599DFF.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalexander13)](https://www.linkedin.com/in/lucasalexander13)
-[![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-FF757F?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://t.me/lucasalexander13)](https://ko-fi.com/lucasalexander13)
+[![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-C099FF?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://t.me/lucasalexander13)](https://ko-fi.com/lucasalexander13)
