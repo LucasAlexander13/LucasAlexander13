@@ -34,14 +34,14 @@ I started my interest in development during my statistics class, working with da
 
 ---
 
-### Productivity
+### Tools I Love
 
 ![Git](https://img.shields.io/badge/git-FF757F.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-599DFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF757F?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-599DFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-I'm always studying to improve my code and productivity, and love tools that help me to do so.
+I'm always studying to improve my code quality and productivity, and love tools that help me to do so.
 
 ---
 
