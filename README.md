@@ -4,7 +4,7 @@
 
 Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree student passionate about computers, science, technology and nerd stuff.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&show_icons=true&include_all_commits=true&hide=issues&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=0D1117)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&show_icons=true&include_all_commits=true&hide=issues&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436)
 
 Link for my [page](https://lucasalexander13.github.io/curriculo).
 
@@ -19,7 +19,7 @@ Link for my [page](https://lucasalexander13.github.io/curriculo).
 
 Currently I'm working in a software house as a Front-End Web Developer in Brazil. We work constantly with gitflow, agile culture and web components, using a React related framework.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexander13&langs_count=6&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=0D1117&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexander13&langs_count=6&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&layout=compact)
 
 ---
 
