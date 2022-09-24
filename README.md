@@ -1,6 +1,6 @@
 # Hi, Lucas Here
 
-![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=FF757F&fontAlignY=50&height=200&text=GitHub%20Page&desc=Welcome%20to%20my&descAlignY=20&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=FF757F&fontAlignY=50&height=250&text=GitHub%20Page&desc=Welcome%20to%20my&descAlignY=30&animation=fadeIn)
 
 ## About Me
 
@@ -55,7 +55,7 @@ I started my interest in development during my statistics class, working with da
 
 Feel free to connect with me or buy me a coffee.
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=222436&fontColor=FF757F&fontAlignY=50&height=200&text=Thank%20You&desc=Farewell%20Good%20Traveler&descAlignY=80&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=222436&fontColor=FF757F&fontAlignY=50&height=200&text=Thank%20You&desc=Farewell%20Good%20Traveler&descAlignY=70&animation=fadeIn)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-599DFF.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalexander13)](https://www.linkedin.com/in/lucasalexander13)
 [![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-FF757F?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://t.me/lucasalexander13)](https://ko-fi.com/lucasalexander13)
