@@ -1,5 +1,7 @@
 # Hi, Lucas Here
 
+![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=FF757F&fontAlignY=50&height=200&text=GitHub%20Page&desc=Welcome%20to%20my&descAlignY=20&animation=fadeIn)
+
 ## About Me
 
 Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree student passionate about computers, science, technology and nerd stuff.
@@ -32,7 +34,7 @@ Currently I'm working in a software house as a Front-End Web Developer in Brazil
 
 I'm always studying to improve my code quality and productivity, and love tools that help me to do so.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lucasalexander13&border_radius=6&background=222436&stroke=3A3E59&ring=FF98A4&fire=FF757F&currStreakNum=F8F8F8&sideNums=FF757F&currStreakLabel=FF98A4&sideLabels=599DFF&dates=F8F8F8)
+![GitHub Streak](https://streak-stats.demolab.com?user=lucasalexander13&border_radius=6&background=222436&stroke=3A3E59&ring=FF98A4&fire=FF757F&currStreakNum=F8F8F8&sideNums=FF757F&currStreakLabel=FF757F&sideLabels=599DFF&dates=F8F8F8)
 
 ---
 
@@ -52,6 +54,8 @@ I started my interest in development during my statistics class, working with da
 ### Find Me
 
 Feel free to connect with me or buy me a coffee.
+
+![Footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=222436&fontColor=FF757F&fontAlignY=50&height=200&text=Thank%20You&desc=Farewell%20Good%20Traveler&descAlignY=80&animation=fadeIn)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-599DFF.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalexander13)](https://www.linkedin.com/in/lucasalexander13)
 [![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-FF757F?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://t.me/lucasalexander13)](https://ko-fi.com/lucasalexander13)
