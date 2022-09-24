@@ -1,6 +1,6 @@
 # Hi, Lucas Here
 
-![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=FF757F&fontAlignY=50&height=250&text=GitHub%20Page&desc=Welcome%20to%20my&descAlignY=30&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=FF757F&fontAlignY=50&height=250&text=GitHub%20Page&desc=Welcome%20to%20my&descAlignY=25&animation=fadeIn)
 
 ## About Me
 
