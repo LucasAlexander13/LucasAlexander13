@@ -4,7 +4,7 @@
 
 Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree student passionate about computers, science, technology and nerd stuff.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&show_icons=true&include_all_commits=true&hide=issues&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&show_icons=true&include_all_commits=true&hide=issues&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436)
 
 Link for my [page](https://lucasalexander13.github.io/curriculo).
 
@@ -23,25 +23,29 @@ Currently I'm working in a software house as a Front-End Web Developer in Brazil
 
 ---
 
-### Data Science Skills
-
-![Python](https://img.shields.io/badge/Python-FF757F?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-599DFF.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-FF757F.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-599DFF.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-I started my interest in development during my statistics class, working with data analysis.
-
----
-
 ### Tools I Love
 
 ![Git](https://img.shields.io/badge/git-FF757F.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-599DFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF757F?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-599DFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-599DFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 I'm always studying to improve my code quality and productivity, and love tools that help me to do so.
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lucasalexander13&border_radius=6&background=222436&stroke=3A3E59&ring=FF98A4&fire=FF757F&currStreakNum=F8F8F8&sideNums=FF757F&currStreakLabel=FF98A4&sideLabels=599DFF&dates=F8F8F8)
+
+---
+
+### Data Science Skills
+
+![Python](https://img.shields.io/badge/Python-FF757F?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-599DFF.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-FF757F.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-599DFF.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+I started my interest in development during my statistics class, working with data analysis.
+
+![Snake animation](https://github.com/lucasalexander13/lucasalexander13/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
