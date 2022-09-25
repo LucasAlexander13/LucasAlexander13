@@ -14,10 +14,10 @@ Link for my [page](https://lucasalexander13.github.io/curriculo).
 
 ### Front-End Developer
 
-![Angular](https://img.shields.io/badge/angular-FF757F.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-599DFF.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-FF757F.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-599DFF.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-FF757F.svg?style=for-the-badge&logo=angular&logoColor=FF757F&labelColor=222436)
+![TypeScript](https://img.shields.io/badge/typescript-599DFF.svg?style=for-the-badge&logo=typescript&logoColor=599DFF&labelColor=222436)
+![HTML5](https://img.shields.io/badge/html5-FF757F.svg?style=for-the-badge&logo=html5&logoColor=FF757F&labelColor=222436)
+![CSS3](https://img.shields.io/badge/css3-599DFF.svg?style=for-the-badge&logo=css3&logoColor=599DFF&labelColor=222436)
 
 Currently I'm working in a software house as a Front-End Web Developer in Brazil. We work constantly with gitflow, agile culture and web components, using a React related framework.
 
@@ -27,10 +27,10 @@ Currently I'm working in a software house as a Front-End Web Developer in Brazil
 
 ### Tools I Love
 
-![Git](https://img.shields.io/badge/git-FF757F.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-599DFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF757F?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-599DFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-FF757F.svg?style=for-the-badge&logo=git&logoColor=FF757F&labelColor=222436)
+![Bitbucket](https://img.shields.io/badge/bitbucket-599DFF.svg?style=for-the-badge&logo=bitbucket&logoColor=599DFF&labelColor=222436)
+![Postman](https://img.shields.io/badge/Postman-FF757F?style=for-the-badge&logo=postman&logoColor=FF757F&labelColor=222436)
+![VSCode](https://img.shields.io/badge/VS%20Code-599DFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=599DFF&labelColor=222436)
 
 I'm always studying to improve my code quality and productivity, and love tools that help me to do so.
 
@@ -40,10 +40,10 @@ I'm always studying to improve my code quality and productivity, and love tools 
 
 ### Data Science Skills
 
-![Python](https://img.shields.io/badge/Python-FF757F?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-599DFF.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-FF757F.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-599DFF.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF757F?style=for-the-badge&logo=python&logoColor=FF757F&labelColor=222436)
+![Pandas](https://img.shields.io/badge/pandas-599DFF.svg?style=for-the-badge&logo=pandas&logoColor=599DFF&labelColor=222436)
+![Jupyter](https://img.shields.io/badge/jupyter-FF757F.svg?style=for-the-badge&logo=jupyter&logoColor=FF757F&labelColor=222436)
+![NumPy](https://img.shields.io/badge/numpy-599DFF.svg?style=for-the-badge&logo=numpy&logoColor=599DFF&labelColor=222436)
 
 I started my interest in development during my statistics class, working with data analysis.
 
@@ -58,9 +58,9 @@ Feel free to connect with me and farewell good traveler.
 ![Footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=222436&fontColor=FF757F&fontAlignY=50&height=200&text=What,%20still%20here?&desc=Thank%20You!%20Please%20consider%20following%20me&descAlignY=65&animation=fadeIn)
 
 ![Followers Count](https://custom-icon-badges.demolab.com/github/followers/lucasalexander13?color=599DFF&labelColor=555555&style=for-the-badge&logo=person-add&label=&logoColor=white")
-![Profile Views](https://komarev.com/ghpvc/?username=lucasalexander13&label=visitors&style=for-the-badge&color=FF757F)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-599DFF.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalexander13)](https://www.linkedin.com/in/lucasalexander13)
-[![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-FF757F?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://t.me/lucasalexander13)](https://ko-fi.com/lucasalexander13)
+![Profile Views](https://komarev.com/ghpvc/?username=lucasalexander13&label=views&style=for-the-badge&color=FF757F)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-599DFF.svg?style=for-the-badge&logo=Linkedin&logoColor=599DFF&labelColor=222436&link=https://www.linkedin.com/in/lucasalexander13)](https://www.linkedin.com/in/lucasalexander13)
+[![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-FF757F?style=for-the-badge&logo=ko-fi&logoColor=FF757F&labelColor=222436&link=https://t.me/lucasalexander13)](https://ko-fi.com/lucasalexander13)
 
 ---
 
