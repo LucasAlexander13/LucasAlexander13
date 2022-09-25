@@ -6,7 +6,7 @@
 
 Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree student passionate about computers, science, technology and nerd stuff.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&show_icons=true&include_all_commits=true&hide=issues&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -21,7 +21,7 @@ Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree stud
 
 Currently I'm working in a software house as a Front-End Web Developer in Brazil. We work constantly with gitflow, agile culture and web components, using a React related framework and TypeScript.
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexander13&langs_count=6&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&layout=compact&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexander13&langs_count=6&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&layout=compact&hide_border=true&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -34,7 +34,7 @@ Currently I'm working in a software house as a Front-End Web Developer in Brazil
 
 I'm always studying to improve my code quality and productivity, and love tools that help me to do so.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucasalexander13&border_radius=6&background=222436&stroke=3A3E59&ring=FF98A4&fire=FF757F&currStreakNum=F8F8F8&sideNums=FF757F&currStreakLabel=FF757F&sideLabels=599DFF&dates=F8F8F8&link=https://github.com/DenverCoder1/github-readme-streak-stats)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucasalexander13&border_radius=6&background=222436&border=222436&stroke=3A3E59&ring=FF98A4&fire=FF757F&currStreakNum=F8F8F8&sideNums=FF757F&currStreakLabel=FF757F&sideLabels=599DFF&dates=F8F8F8&link=https://github.com/DenverCoder1/github-readme-streak-stats)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 
@@ -57,14 +57,19 @@ Feel free to connect with me and farewell good traveler.
 
 [![Footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=222436&fontColor=FF757F&fontAlignY=50&height=200&text=What,%20still%20here?&desc=Thank%20You!%20Please%20consider%20following%20me&descAlignY=65&animation=fadeIn&link=https://github.com/kyechan99/capsule-render)](https://github.com/kyechan99/capsule-render)
 
-[![Followers Count](https://custom-icon-badges.demolab.com/github/followers/lucasalexander13?color=599DFF&labelColor=222436&style=for-the-badge&logo=person-add&label=&logoColor=599DFF&link=https://github.com/lucasalexander13?tab=followers)](https://github.com/lucasalexander13?tab=followers)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-FF757F.svg?style=for-the-badge&logo=gmail&logoColor=FF757F&labelColor=222436&link=mailto:lucasalexander13@hotmail.com)](mailto:lucasalexander13@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Mail%20me-FF757F.svg?style=for-the-badge&logo=gmail&logoColor=FF757F&labelColor=222436&link=mailto:lucasalexander13@hotmail.com)](mailto:lucasalexander13@hotmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-599DFF.svg?style=for-the-badge&logo=Linkedin&logoColor=599DFF&labelColor=222436&link=https://www.linkedin.com/in/lucasalexander13)](https://www.linkedin.com/in/lucasalexander13)
 [![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-FF757F?style=for-the-badge&logo=ko-fi&logoColor=FF757F&labelColor=222436&link=https://ko-fi.com/lucasalexander13)](https://ko-fi.com/lucasalexander13)
+[![Followers Count](https://custom-icon-badges.demolab.com/github/followers/lucasalexander13?color=599DFF&labelColor=222436&style=for-the-badge&logo=person-add&label=&logoColor=599DFF&link=https://github.com/lucasalexander13?tab=followers)](https://github.com/lucasalexander13?tab=followers)
 
 ---
+
 [![Profile Views](https://komarev.com/ghpvc/?username=lucasalexander13&label=visitors&style=for-the-badge&color=FF757F&link=https://github.com/antonkomarev/github-profile-views-counter)](https://github.com/antonkomarev/github-profile-views-counter)
 [![Markdown](https://img.shields.io/badge/Made%20with-Markdown-599DFF?style=for-the-badge&logo=Markdown&link=https://www.markdownguide.org)](https://www.markdownguide.org)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!--
 
