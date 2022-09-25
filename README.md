@@ -47,15 +47,28 @@ I'm always studying to improve my code quality and productivity, and love tools 
 
 I started my interest in development during my statistics class, working with data analysis.
 
-![Snake animation](https://github.com/lucasalexander13/lucasalexander13/blob/output/github-contribution-grid-snake.svg)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=lucasalexander13&bg_color=222436&color=F8F8F8&title_color=FF757F&line=FF757F&point=599DFF&area=true&area_color=599DFF&hide_border=true&radius=8)
 
 ---
 
 ### Find Me
 
-Feel free to connect with me or buy me a coffee.
+Feel free to connect with me and farewell good traveler.
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=222436&fontColor=FF757F&fontAlignY=50&height=200&text=Thank%20You&desc=Farewell%20Good%20Traveler&descAlignY=70&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=222436&fontColor=FF757F&fontAlignY=50&height=200&text=What,%20still%20here?&desc=Thank%20You!%20Please%20consider%20following%20me&descAlignY=65&animation=fadeIn)
 
+![Profile Views](https://komarev.com/ghpvc/?username=lucasalexander13&label=visitors&style=for-the-badge&color=FF757F)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-599DFF.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalexander13)](https://www.linkedin.com/in/lucasalexander13)
 [![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-FF757F?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://t.me/lucasalexander13)](https://ko-fi.com/lucasalexander13)
+
+---
+
+<!--
+![Typing SVG](https://readme-typing-svg.demolab.com?size=16&height=30&font=Fira+Code&pause=1000&color=FF757F&lines=Quote+of+today:)
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational)
+
+![Quote](https://readme-jokes.vercel.app/api?bgColor=%23222436&hideBorder=true&qColor=%23FF757F&aColor=%23599DFF&textColor=%23FF757F&codeColor=%23599DFF)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-FF757F.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucasalexander13@hotmail.com)](mailto:lucasalexander13@hotmail.com)
+-->
