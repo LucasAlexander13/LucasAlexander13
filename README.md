@@ -57,6 +57,7 @@ Feel free to connect with me and farewell good traveler.
 
 ![Footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=222436&fontColor=FF757F&fontAlignY=50&height=200&text=What,%20still%20here?&desc=Thank%20You!%20Please%20consider%20following%20me&descAlignY=65&animation=fadeIn)
 
+![Followers Count](https://custom-icon-badges.demolab.com/github/followers/lucasalexander13?color=599DFF&labelColor=555555&style=for-the-badge&logo=person-add&label=&logoColor=white")
 ![Profile Views](https://komarev.com/ghpvc/?username=lucasalexander13&label=visitors&style=for-the-badge&color=FF757F)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-599DFF.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalexander13)](https://www.linkedin.com/in/lucasalexander13)
 [![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-FF757F?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://t.me/lucasalexander13)](https://ko-fi.com/lucasalexander13)
