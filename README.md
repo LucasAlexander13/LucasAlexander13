@@ -6,7 +6,8 @@
 
 Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree student passionate about computers, science, technology and nerd stuff.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&line_height=24&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasalexander13&hide_border=true&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&range=all_time&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -21,7 +22,8 @@ Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree stud
 
 Currently I'm working in a software house as a Front-End Web Developer in Brazil. We work constantly with gitflow, agile culture and web components, using a React related framework and TypeScript.
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexander13&langs_count=6&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&layout=compact&hide_border=true&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages by Repo](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/repos-per-language?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Languages by Commit](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/most-commit-language?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
@@ -51,9 +53,9 @@ I started my interest in development during my statistics class, working with da
 
 ---
 
-### Find Me
+### Contact
 
-Feel free to connect with me and farewell good traveler.
+Feel free to connect with me. Take a look at my repositories and let's get in touch!
 
 [![Footer](https://capsule-render.vercel.app/api?type=wave&section=footer&color=222436&fontColor=FF757F&fontAlignY=50&height=200&text=What,%20still%20here?&desc=Thank%20You!%20Please%20consider%20following%20me&descAlignY=65&animation=fadeIn&link=https://github.com/kyechan99/capsule-render)](https://github.com/kyechan99/capsule-render)
 
@@ -69,26 +71,22 @@ Feel free to connect with me and farewell good traveler.
 
 <!--START_SECTION:waka-->
 
-```text
-From: 24 September 2022 - To: 25 September 2022
-
-Total Time: 1 hr
-
-YAML       37 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.07 %
-Markdown   23 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.89 %
-CSS        0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.05 %
-```
-
 <!--END_SECTION:waka-->
 
-<!--
+[![Quote for today](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational&link=https://github.com/shravan20/github-readme-quotes)](https://github.com/shravan20/github-readme-quotes)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?size=16&height=30&font=Fira+Code&pause=1000&color=FF757F&lines=Quote+of+today:)
+<!-- Resources
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational)
+[![Profile Stats](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/stats?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![Quote](https://readme-jokes.vercel.app/api?bgColor=%23222436&hideBorder=true&qColor=%23FF757F&aColor=%23599DFF&textColor=%23FF757F&codeColor=%23599DFF)
+[![Github History](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/profile-details?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasalexander13)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexander13&langs_count=6&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&layout=compact&hide_border=true&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=16&height=30&font=Fira+Code&pause=1000&color=FF757F&lines=Quote+of+today:&link=https://github.com/DenverCoder1/readme-typing-svg)](https://github.com/DenverCoder1/readme-typing-svg)
+
+[![Jokes](https://readme-jokes.vercel.app/api?bgColor=%23222436&hideBorder=true&qColor=%23FF757F&aColor=%23599DFF&textColor=%23FF757F&codeColor=%23599DFF&link=https://github.com/ABSphreak/readme-jokes)](https://github.com/ABSphreak/readme-jokes)
+
+[![Styled Quotes](https://quotes-github-readme.vercel.app/api?&type=horizontal&theme=moonlight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 -->
