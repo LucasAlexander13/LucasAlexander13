@@ -71,6 +71,16 @@ Feel free to connect with me. Take a look at my repositories and let's get in to
 
 <!--START_SECTION:waka-->
 
+```text
+From: 26 August 2022 - To: 25 September 2022
+
+Total Time: 1 hr
+
+YAML       37 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.07 %
+Markdown   23 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.89 %
+CSS        0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.05 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Quote for today](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational&link=https://github.com/shravan20/github-readme-quotes)](https://github.com/shravan20/github-readme-quotes)
