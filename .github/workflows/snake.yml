@@ -36,7 +36,7 @@ jobs:
           #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
           #                 Exactly 5 colors are expected.
           outputs: |
-            dist/github-contribution-grid-snake.svgpalette=github-dark&color_snake=#FF757F&color_dots=#222436,#315A8C,#427ABF,#4C8ADB,#599DFF
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#FF757F&color_dots=#222436,#315A8C,#427ABF,#4C8ADB,#599DFF
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#599DFF&color_dots=#222436,#8C4149,#B2525B,#D8636D,#FF757F
             # push the content of <build_dir> to a branch
       

@@ -85,11 +85,11 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-[![Snake Animation](https://raw.githubusercontent.com/LucasAlexander13/LucasAlexander13/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk))
+[![Snake Animation](https://raw.githubusercontent.com/LucasAlexander13/LucasAlexander13/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
 
 [![Quote for today](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational&link=https://github.com/shravan20/github-readme-quotes)](https://github.com/shravan20/github-readme-quotes)
 
-[![Snake Animation](https://raw.githubusercontent.com/LucasAlexander13/LucasAlexander13/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk))
+[![Snake Animation](https://raw.githubusercontent.com/LucasAlexander13/LucasAlexander13/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
 <!-- Resources
 
