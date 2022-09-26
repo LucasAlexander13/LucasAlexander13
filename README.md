@@ -6,7 +6,8 @@
 
 Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree student passionate about computers, science, technology and nerd stuff.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&line_height=24&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&line_height=24&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasalexander13&hide_border=true&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&range=all_time&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -70,17 +71,6 @@ Feel free to connect with me. Take a look at my repositories and let's get in to
 [![Markdown](https://img.shields.io/badge/Made%20with-Markdown-599DFF?style=for-the-badge&logo=Markdown&link=https://www.markdownguide.org)](https://www.markdownguide.org)
 
 <!--START_SECTION:waka-->
-
-```text
-From: 27 August 2022 - To: 26 September 2022
-
-Total Time: 4 hrs 11 mins
-
-Markdown     3 hrs 3 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   73.21 %
-YAML         1 hr 4 mins     ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.49 %
-TypeScript   2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.04 %
-CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.25 %
-```
 
 <!--END_SECTION:waka-->
 
