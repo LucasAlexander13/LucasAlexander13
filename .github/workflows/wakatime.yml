@@ -1,15 +1,23 @@
-name: Waka Readme
+name: generate wakatime stats
 
 on:
-  workflow_dispatch:
+  # run automatically every 6 hours
   schedule:
-    # Runs every 4 hours
-    - cron: "0 */4 * * *"
+    - cron: "0 */8 * * *"
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+
     steps:
       - uses: athul/waka-readme@master
         with:
