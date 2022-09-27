@@ -72,24 +72,11 @@ Feel free to connect with me. Take a look at my repositories and let's get in to
 
 <!--START_SECTION:waka-->
 
-```text
-From: 19 September 2022 - To: 26 September 2022
-
-Total Time: 4 hrs 11 mins
-
-Markdown     3 hrs 3 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   73.21 %
-YAML         1 hr 4 mins     ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.49 %
-TypeScript   2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.04 %
-CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.25 %
-```
-
 <!--END_SECTION:waka-->
 
 [![Snake Animation](https://raw.githubusercontent.com/LucasAlexander13/LucasAlexander13/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
 
 [![Quote for today](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational&link=https://github.com/shravan20/github-readme-quotes)](https://github.com/shravan20/github-readme-quotes)
-
-[![Snake Animation](https://raw.githubusercontent.com/LucasAlexander13/LucasAlexander13/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
 <!-- Resources
 
