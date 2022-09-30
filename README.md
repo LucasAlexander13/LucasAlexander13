@@ -89,7 +89,11 @@ HTML         29 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 [![Snake Animation](https://raw.githubusercontent.com/LucasAlexander13/LucasAlexander13/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
 
-[![Quote for today](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational&link=https://github.com/shravan20/github-readme-quotes)](https://github.com/shravan20/github-readme-quotes)
+```text
+“For a moment, nothing happened. Then, after a second or so, nothing continued to happen.”
+
+- Douglas Adams.
+```
 
 <!-- Resources
 
@@ -104,5 +108,7 @@ HTML         29 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![Jokes](https://readme-jokes.vercel.app/api?bgColor=%23222436&hideBorder=true&qColor=%23FF757F&aColor=%23599DFF&textColor=%23FF757F&codeColor=%23599DFF&link=https://github.com/ABSphreak/readme-jokes)](https://github.com/ABSphreak/readme-jokes)
 
 [![Styled Quotes](https://quotes-github-readme.vercel.app/api?&type=horizontal&theme=moonlight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Quote for today](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational&link=https://github.com/shravan20/github-readme-quotes)](https://github.com/shravan20/github-readme-quotes)
 
 -->
