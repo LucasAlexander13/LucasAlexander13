@@ -95,11 +95,6 @@ Other        37 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 - Douglas Adams.
 ```
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasalexander13&repo=monorepo-boilerplate&hide_border=true&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436)](https://github.com/lucasalexander13/monorepo-boilerplate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasalexander13&repo=server-boilerplate&hide_border=true&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436)](https://github.com/lucasalexander13/server-boilerplate)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasalexander13&repo=expo-boilerplate&hide_border=true&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436)](https://github.com/lucasalexander13/expo-boilerplate)
-
 <!-- Resources
 
 [![Profile Stats](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/stats?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
