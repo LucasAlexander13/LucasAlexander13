@@ -52,6 +52,9 @@ I started my interest in development during my statistics class, working with da
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=lucasalexander13&bg_color=222436&color=F8F8F8&title_color=FF757F&line=FF757F&point=599DFF&area=true&area_color=599DFF&hide_border=true&radius=8&link=https://github.com/Ashutosh00710/github-readme-activity-graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+[![Profile Stats](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/stats?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Github History](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/profile-details?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ---
 
 ### Contact
@@ -73,15 +76,16 @@ Feel free to connect with me. Take a look at my repositories and let's get in to
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 September 2022 - To: 07 October 2022
+From: 24 September 2022 - To: 30 September 2022
 
-Total Time: 39 hrs 42 mins
+Total Time: 27 hrs 10 mins
 
-JSON         15 hrs 8 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.12 %
-TypeScript   9 hrs 31 mins   ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.00 %
-JavaScript   7 hrs 9 mins    ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.02 %
-Markdown     3 hrs 59 mins   ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.06 %
-Other        1 hr 17 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.24 %
+TypeScript   7 hrs 56 mins   ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.25 %
+JSON         7 hrs 49 mins   ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.79 %
+JavaScript   4 hrs 39 mins   ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.16 %
+Markdown     3 hrs 39 mins   ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.44 %
+YAML         1 hr 4 mins     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.96 %
+Other        37 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.28 %
 ```
 
 <!--END_SECTION:waka-->
@@ -95,10 +99,6 @@ Other        1 hr 17 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!-- Resources
-
-[![Profile Stats](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/stats?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Github History](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/profile-details?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexander13&langs_count=6&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&layout=compact&hide_border=true&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
