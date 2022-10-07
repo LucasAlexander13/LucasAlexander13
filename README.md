@@ -52,9 +52,6 @@ I started my interest in development during my statistics class, working with da
 
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=lucasalexander13&bg_color=222436&color=F8F8F8&title_color=FF757F&line=FF757F&point=599DFF&area=true&area_color=599DFF&hide_border=true&radius=8&link=https://github.com/Ashutosh00710/github-readme-activity-graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-[![Profile Stats](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/stats?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Github History](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/profile-details?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ---
 
 ### Contact
@@ -98,6 +95,10 @@ Other        1 hr 17 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!-- Resources
+
+[![Profile Stats](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/stats?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Github History](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/profile-details?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexander13&langs_count=6&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&layout=compact&hide_border=true&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
