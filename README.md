@@ -73,7 +73,7 @@ Feel free to connect with me. Take a look at my repositories and let's get in to
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 September 2022 - To: 11 February 2023
+From: 24 September 2022 - To: 12 February 2023
 
 Total Time: 440 hrs 19 mins
 
