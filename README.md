@@ -16,7 +16,7 @@ Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree stud
 
 [![Svelte](https://img.shields.io/badge/svelte-FF757F.svg?style=for-the-badge&logo=svelte&logoColor=FF757F&labelColor=222436&link=https://svelte.dev/)](https://svelte.dev/)
 [![React](https://img.shields.io/badge/react-599DFF.svg?style=for-the-badge&logo=react&logoColor=599DFF&labelColor=222436&link=https://reactjs.org)](https://reactjs.org)
-[![GraphQL](https://img.shields.io/badge/graphql-FF757F.svg?style=for-the-badge&logo=graphql&logoColor=FF757F&labelColor=222436&link=https://graphql.org)](https://graphql.org)
+[![GraphQL](https://img.shields.io/badge/astro-FF757F.svg?style=for-the-badge&logo=astro&logoColor=FF757F&labelColor=222436&link=https://graphql.org)](https://graphql.org)
 [![TypeScript](https://img.shields.io/badge/typescript-599DFF.svg?style=for-the-badge&logo=typescript&logoColor=599DFF&labelColor=222436&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
 [![HTML5](https://img.shields.io/badge/html5-FF757F.svg?style=for-the-badge&logo=html5&logoColor=FF757F&labelColor=222436&link=https://developer.mozilla.org/en-US/docs/Web/HTML)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-599DFF.svg?style=for-the-badge&logo=css3&logoColor=599DFF&labelColor=222436&link=https://developer.mozilla.org/en-US/docs/Web/CSS)](https://developer.mozilla.org/en-US/docs/Web/CSS)
