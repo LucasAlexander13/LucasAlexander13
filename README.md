@@ -23,8 +23,8 @@ Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree stud
 
 Currently I'm working in a software house as a Front-End Web Developer in Brazil. We work constantly with gitflow, agile culture and web components, using a React related framework and TypeScript.
 
-[![Languages by Repo](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/repos-per-language?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Languages by Commit](http://github-profile-summary-cards-392tqnxp4-vn7n24fzkq.vercel.app/api/cards/most-commit-language?username=lucasalexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasAlexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasAlexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
@@ -50,7 +50,7 @@ I'm always studying to improve my code quality and productivity, and love tools 
 
 I started my interest in development during my statistics class, working with data analysis.
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=lucasalexander13&bg_color=222436&color=F8F8F8&title_color=FF757F&line=FF757F&point=599DFF&area=true&area_color=599DFF&hide_border=true&radius=8&link=https://github.com/Ashutosh00710/github-readme-activity-graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasAlexander13&bg_color=222436&color=F8F8F8&title_color=FF757F&line=FF757F&point=599DFF&area=true&area_color=599DFF&hide_border=true&radius=8&link=https://github.com/Ashutosh00710/github-readme-activity-graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
