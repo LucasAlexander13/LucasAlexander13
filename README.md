@@ -73,14 +73,14 @@ Feel free to connect with me. Take a look at my repositories and let's get in to
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2022 - To: 04 July 2024
+From: 24 September 2022 - To: 05 July 2024
 
-Total Time: 2,175 hrs 5 mins
+Total Time: 2,180 hrs 20 mins
 
-TypeScript        1,141 hrs 29 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.48 %
-Svelte            388 hrs 59 mins ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.88 %
-JSON              255 hrs 48 mins ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.76 %
-JavaScript        133 hrs 19 mins ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.13 %
+TypeScript        1,145 hrs 10 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.52 %
+Svelte            390 hrs 26 mins ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.91 %
+JSON              255 hrs 50 mins ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.73 %
+JavaScript        133 hrs 23 mins ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.12 %
 HTML              69 hrs 26 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.19 %
 ```
 
