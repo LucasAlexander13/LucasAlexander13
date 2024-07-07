@@ -73,7 +73,7 @@ Feel free to connect with me. Take a look at my repositories and let's get in to
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2022 - To: 06 July 2024
+From: 24 September 2022 - To: 07 July 2024
 
 Total Time: 2,180 hrs 52 mins
 
