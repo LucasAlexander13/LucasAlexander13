@@ -62,7 +62,7 @@ Feel free to connect with me. Take a look at my repositories and let's get in to
 
 [![Gmail Badge](https://img.shields.io/badge/Mail%20me-FF757F.svg?style=for-the-badge&logo=gmail&logoColor=FF757F&labelColor=222436&link=mailto:lucasalexander13@hotmail.com)](mailto:lucasalexander13@hotmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-599DFF.svg?style=for-the-badge&logo=Linkedin&logoColor=599DFF&labelColor=222436&link=https://www.linkedin.com/in/lucasalexander13)](https://www.linkedin.com/in/lucasalexander13)
-[![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-FF757F?style=for-the-badge&logo=ko-fi&logoColor=FF757F&labelColor=222436&link=https://ko-fi.com/lucasalexander13)](https://ko-fi.com/lucasalexander13)
+[![Reddit Badge](https://img.shields.io/badge/reddit-FF757F?style=for-the-badge&logo=reddit&logoColor=FF757F&labelColor=222436&link=https://www.reddit.com/user/LucasAlexander13)](https://www.reddit.com/user/LucasAlexander13)
 [![Followers Count](https://custom-icon-badges.demolab.com/github/followers/lucasalexander13?color=599DFF&labelColor=222436&style=for-the-badge&logo=person-add&label=&logoColor=599DFF&link=https://github.com/lucasalexander13?tab=followers)](https://github.com/lucasalexander13?tab=followers)
 
 ---
