@@ -8,7 +8,7 @@ Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree stud
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasalexander13&line_height=24&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasalexander13&hide_border=true&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&bg_color=222436&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasalexander13&hide_border=true&title_color=FF757F&icon_color=599DFF&text_color=F8F8F8&hide=pug,java,mdx,groovy,git,assembly,vue.js,go,objective-j,svg,gdscript,ezhil,actionscript%203,image%20(svg),astro,sql,scss,xml,toml,ini,java%20properties,git%20config,text,tsconfig,other&bg_color=222436&link=https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
