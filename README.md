@@ -24,7 +24,7 @@ Hi! My name is Lucas Alexander and I'm a computer science bachelor's degree stud
 Currently I'm working in a software house as a Front-End Web Developer in Brazil. We work constantly with gitflow, agile culture and web components, using a React related framework and TypeScript.
 
 [![Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasAlexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasAlexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasAlexander13&theme=moonlight&link=https://github.com/vn7n24fzkq/github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
